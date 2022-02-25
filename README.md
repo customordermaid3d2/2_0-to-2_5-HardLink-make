@@ -8,5 +8,5 @@ Connect one with a hard link.
 
 ![2022-02-25 09 02 22](https://user-images.githubusercontent.com/20321215/155628126-751053b2-3749-4fa5-86d8-75cceb568965.png)
 
-그러면 공간확보
-so. free up space
+그러면 공간확보  
+so. free up space  
