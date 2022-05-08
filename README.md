@@ -26,7 +26,8 @@ COM3D2 and COM3D2.5 Game Path edit. 커오메2랑 커오메2.5경로를 본인 �
 HardLinkMake=$false => $HardLinkMake=$false edit. 수정  
 ![2022-02-25 09 45 20](https://user-images.githubusercontent.com/20321215/155632566-b13b8b85-9257-4325-9916-5da283c1976a.png)  
 
-3. "2_0 to 2_5 HardLink make V2.ps1" right-click and powershell run. 우클릭으로 파워쉘 실행  
+3. "2_0 to 2_5 HardLink make V2.ps1" right-click and powershell run.  
+우클릭으로 파워쉘 실행  
 ![2022-02-25 09 46 30](https://user-images.githubusercontent.com/20321215/155632750-cc835669-7235-47a4-acaf-f5007fb5ffad.png)  
 
 4. Result check 결과 확인  
